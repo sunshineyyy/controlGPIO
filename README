@@ -1,0 +1,1 @@
+This contains codes for control GPIO pin 25 of raspberry pi (or other pins as you specified) as output high and low voltage and PWM output taken outside parameters duty cycle and duration specified by users.
